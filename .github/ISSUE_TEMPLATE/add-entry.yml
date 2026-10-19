@@ -1,0 +1,100 @@
+name: Suggest a platform
+description: Suggest a product discovery platform, directory or launch site for the list.
+title: "Add: "
+labels: ["new entry"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the suggestion. Please check the [inclusion criteria](../blob/main/CONTRIBUTING.md#inclusion-criteria) first.
+        Self-reported labels are a starting point: the maintainer re-tests every label before the entry is added.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Product Hunt
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Homepage URL
+      placeholder: https://www.producthunt.com
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: What you'll find
+      description: One sentence, at most 20 words. Say what people find there, not how great it is.
+      placeholder: New tech products launched daily, ranked by community upvotes.
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Product discovery communities
+        - AI tool directories
+        - Developer tools & open source
+        - Design resources & inspiration
+        - Apps
+        - Hardware & makers
+        - General directories
+        - Launch your product
+        - China
+    validations:
+      required: true
+  - type: dropdown
+    id: free
+    attributes:
+      label: Free
+      options:
+        - ✅ Core features are free
+        - ⚠️ Some features are paid
+        - ❌ Must pay
+    validations:
+      required: true
+  - type: dropdown
+    id: submissions
+    attributes:
+      label: Accepts submissions
+      options:
+        - ✅ Free submission
+        - ⚠️ Paid-only or invite-only
+        - ❌ Does not accept submissions
+    validations:
+      required: true
+  - type: dropdown
+    id: china-access
+    attributes:
+      label: China access
+      description: Does the homepage load on a mainland China network? Pick "Not tested" if you aren't sure.
+      options:
+        - Not tested
+        - ✅ Loads within 10 seconds
+        - ⚠️ Loads, but slow or unreliable
+        - ❌ Does not load
+    validations:
+      required: true
+  - type: input
+    id: submit-url
+    attributes:
+      label: Submit URL
+      description: The direct link to the submission page, if the platform accepts submissions.
+      placeholder: https://www.producthunt.com/posts/new
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: Optional. For example, review rules, paid fast-track pricing, or English UI for platforms in China.
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Checks
+      options:
+        - label: The platform has been updated in the last 6 months.
+          required: true
+        - label: It isn't a scraper, an empty ad shell, or paid-promotion-only.
+          required: true
