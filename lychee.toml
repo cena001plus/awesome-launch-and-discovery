@@ -1,0 +1,20 @@
+# Config for the link check in .github/workflows/links.yml
+
+max_retries = 3
+retry_wait_time = 5
+timeout = 30
+max_concurrency = 8
+user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0 Safari/537.36"
+
+# Many of the listed sites sit behind bot protection and answer automated
+# requests with 403 or 429 even though they load fine in a browser.
+accept = ["200..=299", "403", "429"]
+
+exclude_all_private = true
+exclude = [
+  "^mailto:",
+  # Relative links to GitHub pages such as ../../issues/new only resolve on github.com.
+  "/issues/new",
+  # Answers automated requests with 405.
+  "^https://gitee\\.com/",
+]
