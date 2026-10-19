@@ -4,7 +4,7 @@ name: Check links
 # are alive. "China access" labels are tested by hand (see CONTRIBUTING.md).
 on:
   pull_request:
-    paths: ["**.md", "lychee.toml"]
+    paths: ["**.md", "lychee.toml", ".github/workflows/links.yml"]
   schedule:
     - cron: "0 2 1 * *" # 02:00 UTC on the 1st of each month
   workflow_dispatch:
@@ -20,14 +20,34 @@ jobs:
       issues: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Check links
+      # Some sites block or time out on GitHub's servers now and then, so a
+      # pull request only checks the web links on the lines it adds.
+      - name: Collect lines added by this pull request
+        if: github.event_name == 'pull_request'
+        env:
+          BASE_REF: ${{ github.base_ref }}
+        run: |
+          git diff --unified=0 "origin/$BASE_REF...HEAD" -- '*.md' > "$RUNNER_TEMP/pr.diff"
+          { grep '^+' "$RUNNER_TEMP/pr.diff" || true; } | { grep -v '^+++ ' || true; } | cut -c2- > "$RUNNER_TEMP/added.md"
+
+      - name: Check links added by this pull request
+        if: github.event_name == 'pull_request'
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --config lychee.toml --no-progress --scheme https --scheme http -- ${{ runner.temp }}/added.md
+          fail: true
+
+      # The monthly run checks every link and opens an issue instead of failing.
+      - name: Check all links
         id: lychee
+        if: github.event_name != 'pull_request'
         uses: lycheeverse/lychee-action@v2
         with:
           args: --config lychee.toml --no-progress './**/*.md'
-          # Fail pull requests; on the monthly run, open an issue instead.
-          fail: ${{ github.event_name == 'pull_request' }}
+          fail: false
 
       - name: Open an issue for broken links
         if: github.event_name != 'pull_request' && steps.lychee.outputs.exit_code != 0

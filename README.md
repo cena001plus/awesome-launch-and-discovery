@@ -135,14 +135,14 @@ Overseas platforms where you can submit or launch a product. **Cost**: Free, Pai
 | [AlternativeTo](https://alternativeto.net) | Software and apps | Paid fast-track | Manual | ? | [Submit](https://alternativeto.net/manage-item/) |
 | [AppSumo](https://appsumo.com) | B2B SaaS | Free (revenue share) | Manual | ? | [Submit](https://partners.appsumo.com/self-submission) |
 | [BetaList](https://betalist.com) | Early-stage startups | Paid only | Manual | ? | [Submit](https://betalist.com/submit) |
-| [Builderoom](https://www.builderoom.com/en) | Any product type | Free | Manual | ? | [Submit](https://www.builderoom.com/en/submit) |
+| [Builderoom](https://www.builderoom.com/en) | Any product type | Free | Manual | ✅ | [Submit](https://www.builderoom.com/en/submit) |
 | [Crowd Supply](https://www.crowdsupply.com) | Hardware | Free (fee on sales) | Manual | ? | [Submit](https://www.crowdsupply.com/apply) |
 | [DevHunt](https://devhunt.org) | Developer tools | Paid fast-track | Automatic | ? | [Submit](https://devhunt.org/account/tools/new) |
 | [Fazier](https://fazier.com) | SaaS | Paid fast-track | Manual | ? | [Submit](https://fazier.com/submit) |
 | [FutureTools](https://futuretools.io) | AI tools | Free | Manual | ? | [Submit](https://futuretools.io/submit-a-tool) |
 | [Hacker News (Show HN)](https://news.ycombinator.com/show) | Developer tools, technical products | Free | Automatic | ? | [Submit](https://news.ycombinator.com/submit) |
 | [Hackster.io](https://www.hackster.io) | Hardware projects | Free | Manual | ? | [Submit](https://www.hackster.io/projects/new) |
-| [HelloGitHub](https://hellogithub.com/en) | Open source | Free | Manual | ? | [Submit](https://hellogithub.com/en/periodical) |
+| [HelloGitHub](https://hellogithub.com/en) | Open source | Free | Manual | ✅ | [Submit](https://hellogithub.com/en/periodical) |
 | [Indie Hackers](https://www.indiehackers.com) | Bootstrapped products | Free | Automatic | ? | [Submit](https://www.indiehackers.com/new-post) |
 | [Kickstarter](https://www.kickstarter.com) | Hardware, creative projects | Free (fee if funded) | Manual | ? | [Submit](https://www.kickstarter.com/start) |
 | [Launching Next](https://www.launchingnext.com) | Early-stage startups | Paid fast-track | Manual | ? | [Submit](https://www.launchingnext.com/submit/) |

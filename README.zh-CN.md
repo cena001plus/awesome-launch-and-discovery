@@ -133,14 +133,14 @@
 | [AlternativeTo](https://alternativeto.net) | 软件与应用 | 付费加速 | 人工 | ? | [提交](https://alternativeto.net/manage-item/) |
 | [AppSumo](https://appsumo.com) | B2B SaaS | 免费（销售分成） | 人工 | ? | [提交](https://partners.appsumo.com/self-submission) |
 | [BetaList](https://betalist.com) | 早期创业项目 | 仅付费 | 人工 | ? | [提交](https://betalist.com/submit) |
-| [Builderoom](https://www.builderoom.com) | 各类产品 | 免费 | 人工 | ? | [提交](https://www.builderoom.com/zh-CN/submit) |
+| [Builderoom](https://www.builderoom.com) | 各类产品 | 免费 | 人工 | ✅ | [提交](https://www.builderoom.com/zh-CN/submit) |
 | [Crowd Supply](https://www.crowdsupply.com) | 硬件 | 免费（按销售抽成） | 人工 | ? | [提交](https://www.crowdsupply.com/apply) |
 | [DevHunt](https://devhunt.org) | 开发工具 | 付费加速 | 自动 | ? | [提交](https://devhunt.org/account/tools/new) |
 | [Fazier](https://fazier.com) | SaaS | 付费加速 | 人工 | ? | [提交](https://fazier.com/submit) |
 | [FutureTools](https://futuretools.io) | AI 工具 | 免费 | 人工 | ? | [提交](https://futuretools.io/submit-a-tool) |
 | [Hacker News (Show HN)](https://news.ycombinator.com/show) | 开发工具、技术产品 | 免费 | 自动 | ? | [提交](https://news.ycombinator.com/submit) |
 | [Hackster.io](https://www.hackster.io) | 硬件项目 | 免费 | 人工 | ? | [提交](https://www.hackster.io/projects/new) |
-| [HelloGitHub](https://hellogithub.com) | 开源项目 | 免费 | 人工 | ? | [提交](https://hellogithub.com/periodical) |
+| [HelloGitHub](https://hellogithub.com) | 开源项目 | 免费 | 人工 | ✅ | [提交](https://hellogithub.com/periodical) |
 | [Indie Hackers](https://www.indiehackers.com) | 自筹资金的产品 | 免费 | 自动 | ? | [提交](https://www.indiehackers.com/new-post) |
 | [Kickstarter](https://www.kickstarter.com) | 硬件、创意项目 | 免费（成功后抽成） | 人工 | ? | [提交](https://www.kickstarter.com/start) |
 | [Launching Next](https://www.launchingnext.com) | 早期创业项目 | 付费加速 | 人工 | ? | [提交](https://www.launchingnext.com/submit/) |
