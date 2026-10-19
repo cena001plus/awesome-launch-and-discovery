@@ -128,19 +128,21 @@ Directories not limited to one field: software alternatives, business software r
 
 ## Launch your product
 
-Overseas platforms where you can submit or launch a product. **Cost**: Free, Paid fast-track (a free path exists, and paying skips the queue or adds promotion) or Paid only. **Review**: Manual, Automatic or None. **Submit** links go straight to the submission page.
+Overseas platforms where you can submit or launch a product. **Cost**: Free, Paid fast-track (a free path exists, and paying skips the queue or adds promotion) or Paid only. **Review**: Manual, Automatic or None. **Submit** links go straight to the submission page. Platforms from [Launch in China](#launch-in-china) are also listed here if they have a full English interface and accept submissions from makers anywhere.
 
 | Name | Best for | Cost | Review | China access | Submit |
 | --- | --- | --- | --- | --- | --- |
 | [AlternativeTo](https://alternativeto.net) | Software and apps | Paid fast-track | Manual | ? | [Submit](https://alternativeto.net/manage-item/) |
 | [AppSumo](https://appsumo.com) | B2B SaaS | Free (revenue share) | Manual | ? | [Submit](https://partners.appsumo.com/self-submission) |
 | [BetaList](https://betalist.com) | Early-stage startups | Paid only | Manual | ? | [Submit](https://betalist.com/submit) |
+| [Builderoom](https://www.builderoom.com/en) | Any product type | Free | Manual | ? | [Submit](https://www.builderoom.com/en/submit) |
 | [Crowd Supply](https://www.crowdsupply.com) | Hardware | Free (fee on sales) | Manual | ? | [Submit](https://www.crowdsupply.com/apply) |
 | [DevHunt](https://devhunt.org) | Developer tools | Paid fast-track | Automatic | ? | [Submit](https://devhunt.org/account/tools/new) |
 | [Fazier](https://fazier.com) | SaaS | Paid fast-track | Manual | ? | [Submit](https://fazier.com/submit) |
 | [FutureTools](https://futuretools.io) | AI tools | Free | Manual | ? | [Submit](https://futuretools.io/submit-a-tool) |
 | [Hacker News (Show HN)](https://news.ycombinator.com/show) | Developer tools, technical products | Free | Automatic | ? | [Submit](https://news.ycombinator.com/submit) |
 | [Hackster.io](https://www.hackster.io) | Hardware projects | Free | Manual | ? | [Submit](https://www.hackster.io/projects/new) |
+| [HelloGitHub](https://hellogithub.com/en) | Open source | Free | Manual | ? | [Submit](https://hellogithub.com/en/periodical) |
 | [Indie Hackers](https://www.indiehackers.com) | Bootstrapped products | Free | Automatic | ? | [Submit](https://www.indiehackers.com/new-post) |
 | [Kickstarter](https://www.kickstarter.com) | Hardware, creative projects | Free (fee if funded) | Manual | ? | [Submit](https://www.kickstarter.com/start) |
 | [Launching Next](https://www.launchingnext.com) | Early-stage startups | Paid fast-track | Manual | ? | [Submit](https://www.launchingnext.com/submit/) |
@@ -168,7 +170,7 @@ Platforms based in China, for finding products made there and for reaching Chine
 | [AIbase](https://www.aibase.com) | AI tool directory, AI news and a model hub | ⚠️ | ⚠️ paid only | ✅ |
 | [AICPB (AI产品榜)](https://www.aicpb.com) | Monthly rankings of AI apps and websites by usage, for China and worldwide | ✅ | ✅ manual review | ✅ |
 | [Appinn (小众软件)](https://www.appinn.com) | Small, useful software picks, plus a community board for sharing finds | ✅ | ✅ manual review | ❌ |
-| [Builderoom](https://www.builderoom.com/en) | Bilingual (Chinese/English) launch and discovery platform for products by makers in China | ✅ | ✅ manual review | ✅ |
+| [Builderoom](https://www.builderoom.com/en) | Bilingual launch and discovery platform for apps, mini programs, extensions, CLI tools, skills, APIs and creative work | ✅ | ✅ manual review | ✅ |
 | [Chinese Independent Developer list (中国独立开发者项目列表)](https://github.com/1c7/chinese-independent-developer) | Websites and apps by Chinese indie developers, updated daily | ✅ | ✅ issue or PR | ⚠️ |
 | [Gitee (码云)](https://gitee.com/explore) | Chinese open-source repositories, editor picks and the GVP showcase | ✅ | ✅ GVP application | ⚠️ |
 | [HelloGitHub](https://hellogithub.com) | Monthly picks of beginner-friendly open-source projects | ✅ | ✅ manual review | ✅ |
@@ -190,7 +192,7 @@ Platforms based in China, for finding products made there and for reaching Chine
 | --- | --- | --- | --- | --- | --- |
 | [36Kr (36氪)](https://36kr.com) | Startups seeking press coverage | Free | Manual | ⚠️ | [Submit](https://36kr.com/seek-report-new) |
 | [Appinn (小众软件)](https://www.appinn.com) | Free or low-cost software | Free | Manual | ❌ | [Submit](https://meta.appinn.net/c/faxian/10) |
-| [Builderoom](https://www.builderoom.com/en) | Products by makers in China | Free | Manual | ✅ | [Submit](https://www.builderoom.com/en/submit) |
+| [Builderoom](https://www.builderoom.com/en) | Any product type | Free | Manual | ✅ | [Submit](https://www.builderoom.com/en/submit) |
 | [Chinese Independent Developer list (中国独立开发者项目列表)](https://github.com/1c7/chinese-independent-developer) | Indie websites and apps | Free | Manual | ⚠️ | [Submit](https://github.com/1c7/chinese-independent-developer/issues) |
 | [HelloGitHub](https://hellogithub.com) | Open source | Free | Manual | ✅ | [Submit](https://hellogithub.com/periodical) |
 | [ifanr (爱范儿)](https://www.ifanr.com) | Consumer tech | Free | Manual | ❌ | [Submit](https://www.ifanr.com/about/contribute/) |
@@ -226,6 +228,6 @@ Suggest a platform with the [issue form](../../issues/new?template=add-entry.yml
 
 ## Maintainer
 
-This list is maintained by the team behind [Builderoom](https://www.builderoom.com), a bilingual launch and discovery platform for products by makers in China. Builderoom appears in the China section in alphabetical order, with the same labels as every other entry.
+This list is maintained by the team behind [Builderoom](https://www.builderoom.com), a bilingual launch and discovery platform for apps, mini programs, extensions, CLI tools, skills, APIs and creative work. Builderoom is listed by the same rules and with the same labels as every other entry, in alphabetical order.
 
 For a weekly pick of new indie products, open-source tools and design work, see our [weekly newsletter](https://github.com/cena001plus/weekly) (in Chinese).

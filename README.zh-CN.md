@@ -126,19 +126,21 @@
 
 ## 发布产品
 
-可以提交或发布产品的海外平台。**费用**：免费、付费加速（有免费通道，付费可插队或获得推广）、仅付费。**审核**：人工、自动、无。**提交入口**直接链到提交页。
+可以提交或发布产品的海外平台。**费用**：免费、付费加速（有免费通道，付费可插队或获得推广）、仅付费。**审核**：人工、自动、无。**提交入口**直接链到提交页。[在中国发布产品](#在中国发布产品)一表中有完整英文界面、接受全球创作者提交的平台，也列在这里。
 
 | 名称 | 适合 | 费用 | 审核 | 国内访问 | 提交入口 |
 | --- | --- | --- | --- | --- | --- |
 | [AlternativeTo](https://alternativeto.net) | 软件与应用 | 付费加速 | 人工 | ? | [提交](https://alternativeto.net/manage-item/) |
 | [AppSumo](https://appsumo.com) | B2B SaaS | 免费（销售分成） | 人工 | ? | [提交](https://partners.appsumo.com/self-submission) |
 | [BetaList](https://betalist.com) | 早期创业项目 | 仅付费 | 人工 | ? | [提交](https://betalist.com/submit) |
+| [Builderoom](https://www.builderoom.com) | 各类产品 | 免费 | 人工 | ? | [提交](https://www.builderoom.com/zh-CN/submit) |
 | [Crowd Supply](https://www.crowdsupply.com) | 硬件 | 免费（按销售抽成） | 人工 | ? | [提交](https://www.crowdsupply.com/apply) |
 | [DevHunt](https://devhunt.org) | 开发工具 | 付费加速 | 自动 | ? | [提交](https://devhunt.org/account/tools/new) |
 | [Fazier](https://fazier.com) | SaaS | 付费加速 | 人工 | ? | [提交](https://fazier.com/submit) |
 | [FutureTools](https://futuretools.io) | AI 工具 | 免费 | 人工 | ? | [提交](https://futuretools.io/submit-a-tool) |
 | [Hacker News (Show HN)](https://news.ycombinator.com/show) | 开发工具、技术产品 | 免费 | 自动 | ? | [提交](https://news.ycombinator.com/submit) |
 | [Hackster.io](https://www.hackster.io) | 硬件项目 | 免费 | 人工 | ? | [提交](https://www.hackster.io/projects/new) |
+| [HelloGitHub](https://hellogithub.com) | 开源项目 | 免费 | 人工 | ? | [提交](https://hellogithub.com/periodical) |
 | [Indie Hackers](https://www.indiehackers.com) | 自筹资金的产品 | 免费 | 自动 | ? | [提交](https://www.indiehackers.com/new-post) |
 | [Kickstarter](https://www.kickstarter.com) | 硬件、创意项目 | 免费（成功后抽成） | 人工 | ? | [提交](https://www.kickstarter.com/start) |
 | [Launching Next](https://www.launchingnext.com) | 早期创业项目 | 付费加速 | 人工 | ? | [提交](https://www.launchingnext.com/submit/) |
@@ -166,7 +168,7 @@
 | [AIbase](https://www.aibase.com) | AI 工具库、AI 资讯与模型广场 | ⚠️ | ⚠️ 仅付费 | ✅ |
 | [AI产品榜](https://www.aicpb.com) | 按使用量排名的 AI 应用与网站月榜，分国内与全球 | ✅ | ✅ 人工审核 | ✅ |
 | [小众软件](https://www.appinn.com) | 小而好用的软件推荐，以及分享发现的社区 | ✅ | ✅ 人工审核 | ❌ |
-| [Builderoom](https://www.builderoom.com) | 中英双语的产品发布与发现平台，收录国内创作者的作品 | ✅ | ✅ 人工审核 | ✅ |
+| [Builderoom](https://www.builderoom.com) | 中英双语的产品发布与发现平台，收录应用、小程序、扩展、命令行工具、Skill、API 与创意作品等 | ✅ | ✅ 人工审核 | ✅ |
 | [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer) | 国内独立开发者的网站与应用，每日更新 | ✅ | ✅ Issue 或 PR | ⚠️ |
 | [码云 Gitee](https://gitee.com/explore) | 国内开源仓库、编辑推荐与 GVP 项目展示 | ✅ | ✅ GVP 申请 | ⚠️ |
 | [HelloGitHub](https://hellogithub.com) | 每月精选适合入门的开源项目 | ✅ | ✅ 人工审核 | ✅ |
@@ -188,7 +190,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [36氪](https://36kr.com) | 寻求媒体报道的创业项目 | 免费 | 人工 | ⚠️ | [提交](https://36kr.com/seek-report-new) |
 | [小众软件](https://www.appinn.com) | 免费或低价软件 | 免费 | 人工 | ❌ | [提交](https://meta.appinn.net/c/faxian/10) |
-| [Builderoom](https://www.builderoom.com) | 国内创作者的作品 | 免费 | 人工 | ✅ | [提交](https://www.builderoom.com/zh-CN/submit) |
+| [Builderoom](https://www.builderoom.com) | 各类产品 | 免费 | 人工 | ✅ | [提交](https://www.builderoom.com/zh-CN/submit) |
 | [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer) | 独立网站与应用 | 免费 | 人工 | ⚠️ | [提交](https://github.com/1c7/chinese-independent-developer/issues) |
 | [HelloGitHub](https://hellogithub.com) | 开源项目 | 免费 | 人工 | ✅ | [提交](https://hellogithub.com/periodical) |
 | [爱范儿](https://www.ifanr.com) | 消费科技 | 免费 | 人工 | ❌ | [提交](https://www.ifanr.com/about/contribute/) |
@@ -224,6 +226,6 @@
 
 ## 维护者
 
-本列表由 [Builderoom](https://www.builderoom.com) 团队维护。Builderoom 是一个中英双语的产品发布与发现平台，收录国内创作者的作品。它与其他条目一样出现在「中国」一节，按英文名称的字母序排列，标注口径相同。
+本列表由 [Builderoom](https://www.builderoom.com) 团队维护。Builderoom 是一个中英双语的产品发布与发现平台，收录应用、小程序、扩展、命令行工具、Skill、API 与创意作品等。它按与其他条目相同的规则与标注收录，按英文名称的字母序排列。
 
 每周精选的独立产品、开源工具与设计灵感，见我们的[周刊](https://github.com/cena001plus/weekly)。

@@ -24,7 +24,7 @@ Product Hunt is the best-known place to launch a tech product, but it isn't the 
 
 | Name | Rhythm | Best for | Accepts submissions | English UI |
 | --- | --- | --- | --- | --- |
-| [Builderoom](https://www.builderoom.com/en) | Ongoing | Products by makers in China | ✅ manual review | ✅ |
+| [Builderoom](https://www.builderoom.com/en) | Ongoing | Any product type | ✅ manual review | ✅ |
 | [Chinese Independent Developer list (中国独立开发者项目列表)](https://github.com/1c7/chinese-independent-developer) | Daily | Indie websites and apps | ✅ issue or PR | ⚠️ |
 | [V2EX (分享创造)](https://www.v2ex.com/go/create) | Ongoing | Indie apps, developer tools | ✅ | ⚠️ |
 | [W2Solo](https://w2solo.com) | Ongoing | Indie products | ✅ | ❌ |

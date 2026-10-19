@@ -37,7 +37,7 @@ The "Launch your product" tables use plain words instead of symbols:
 - **Name** links to the homepage.
 - **What you'll find** says what people find there, in at most 20 words, without stacked adjectives.
 - Entries are in alphabetical order by name. No entry is pinned, bolded or otherwise promoted, including Builderoom.
-- Overseas platforms go in "Discover products" and "Launch your product". Platforms in China go only in the "China" section, so no platform appears in both places.
+- Overseas platforms go in "Discover products" and "Launch your product". Platforms in China go in the "China" section. There is one exception: a platform in the "Launch in China" table that has a full English interface (✅ English UI) and accepts submissions from makers anywhere is also listed in "Launch your product".
 - Keep `README.md` and `README.zh-CN.md` in sync: the same entries, in the same order, with the same labels.
 
 ## Review

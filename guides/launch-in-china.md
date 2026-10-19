@@ -8,7 +8,7 @@ Launching to Chinese users means using different platforms, writing in Chinese, 
 | --- | --- | --- | --- | --- | --- |
 | [36Kr (36氪)](https://36kr.com) | Startups seeking press coverage | Free | Manual | ⚠️ | [Submit](https://36kr.com/seek-report-new) |
 | [Appinn (小众软件)](https://www.appinn.com) | Free or low-cost software | Free | Manual | ❌ | [Submit](https://meta.appinn.net/c/faxian/10) |
-| [Builderoom](https://www.builderoom.com/en) | Products by makers in China | Free | Manual | ✅ | [Submit](https://www.builderoom.com/en/submit) |
+| [Builderoom](https://www.builderoom.com/en) | Any product type | Free | Manual | ✅ | [Submit](https://www.builderoom.com/en/submit) |
 | [Chinese Independent Developer list (中国独立开发者项目列表)](https://github.com/1c7/chinese-independent-developer) | Indie websites and apps | Free | Manual | ⚠️ | [Submit](https://github.com/1c7/chinese-independent-developer/issues) |
 | [HelloGitHub](https://hellogithub.com) | Open source | Free | Manual | ✅ | [Submit](https://hellogithub.com/periodical) |
 | [ifanr (爱范儿)](https://www.ifanr.com) | Consumer tech | Free | Manual | ❌ | [Submit](https://www.ifanr.com/about/contribute/) |
