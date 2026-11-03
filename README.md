@@ -151,6 +151,7 @@ Overseas platforms where you can submit or launch a product. **Cost**: Free, Pai
 | [Product Hunt](https://www.producthunt.com) | Any tech product | Free | Automatic | ? | [Submit](https://www.producthunt.com/posts/new) |
 | [Reddit r/SideProject](https://www.reddit.com/r/SideProject/) | Side projects | Free | Automatic | ? | [Submit](https://www.reddit.com/r/SideProject/submit) |
 | [SaaSHub](https://www.saashub.com) | SaaS | Paid fast-track | Manual | ? | [Submit](https://www.saashub.com/services/submit) |
+| [SitePatent](https://sitepatent.com) | Startups, tools and online products | Paid fast-track | Manual | ? | [Submit](https://sitepatent.com/submit) |
 | [Startup Fame](https://startupfa.me) | Startups | Paid fast-track | Manual | ? | [Submit](https://startupfa.me/submit) |
 | [There's An AI For That](https://theresanaiforthat.com) | AI tools | Paid only | Manual | ? | [Submit](https://theresanaiforthat.com/launch/) |
 | [Uneed](https://www.uneed.best) | SaaS | Paid fast-track | Manual | ? | [Submit](https://www.uneed.best/submit-a-tool) |
