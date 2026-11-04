@@ -52,6 +52,7 @@ New products listed every day or week, with upvotes and comments.
 | [Glama MCP Servers](https://glama.ai/mcp/servers) | Open-source MCP servers with license, quality and maintenance scores | ✅ | ✅ | ? |
 | [Hugging Face Spaces](https://huggingface.co/spaces) | AI demo apps built by the community, runnable in the browser | ✅ | ✅ | ? |
 | [MCP Registry](https://registry.modelcontextprotocol.io) | The Model Context Protocol project's official registry of MCP servers, in preview | ✅ | ✅ CLI publish | ? |
+| [MeetNewAI](https://meetnewai.com) | Free bilingual directory of AI tools, AI games, and MCP servers by the job you need done | ✅ | ✅ free review | ? |
 | [Smithery](https://smithery.ai) | MCP servers and agent skills, with hosted connections | ⚠️ | ✅ | ? |
 | [There's An AI For That](https://theresanaiforthat.com) | Large database of AI tools searchable by task, with new releases daily | ✅ | ⚠️ paid only | ? |
 | [Toolify](https://www.toolify.ai) | AI tools by category, with rankings and alternatives | ✅ | ⚠️ paid only | ? |
